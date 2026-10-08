@@ -61,7 +61,7 @@ Both implementations utilize a **Recursive Backtracking with Depth-First Search 
 │   └── CSharp.csproj
 └── PHP/
     └── index.php
-
+```
 ---
 
 ## How to Setup and Run
@@ -75,10 +75,12 @@ Both implementations utilize a **Recursive Backtracking with Depth-First Search 
 1. Navigate to the C# folder:
    ```bash
    cd csharp
+  ```
 
 2. Build and run the project:
   ```bash
   dotnet run
+  ```
 
 ### Option 2: Running the PHP Solution
 
@@ -89,7 +91,8 @@ Both implementations utilize a **Recursive Backtracking with Depth-First Search 
 1. Navigate to the PHP folder:
    ```bash
    cd php
-
+```
 2. Build and run the project:
   ```bash
   php index.php
+  ```
