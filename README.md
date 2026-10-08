@@ -61,3 +61,35 @@ Both implementations utilize a **Recursive Backtracking with Depth-First Search 
 │   └── CSharp.csproj
 └── PHP/
     └── index.php
+
+---
+
+## How to Setup and Run
+
+### Option 1: Running the C# Solution
+
+#### Prerequisites
+* [.NET SDK 6.0+](https://dotnet.microsoft.com/download) installed on your system.
+
+#### Running via Terminal
+1. Navigate to the C# folder:
+   ```bash
+   cd csharp
+
+2. Build and run the project:
+  ```bash
+  dotnet run
+
+### Option 1: Running the C# Solution
+
+#### Prerequisites
+* [PHP 8.0+](https://www.php.net/downloads.php) installed locally and accessible via your Command Line Interface (CLI).
+
+#### Running via Terminal
+1. Navigate to the PHP folder:
+   ```bash
+   cd php
+
+2. Build and run the project:
+  ```bash
+  php index.php
