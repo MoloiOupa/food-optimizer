@@ -80,7 +80,7 @@ Both implementations utilize a **Recursive Backtracking with Depth-First Search 
   ```bash
   dotnet run
 
-### Option 1: Running the C# Solution
+### Option 2: Running the PHP Solution
 
 #### Prerequisites
 * [PHP 8.0+](https://www.php.net/downloads.php) installed locally and accessible via your Command Line Interface (CLI).
