@@ -79,6 +79,7 @@ Both implementations utilize a **Recursive Backtracking with Depth-First Search 
 2. Build and run the project:
   ```bash
   dotnet run
+  ```
 
 ### Option 2: Running the PHP Solution
 
