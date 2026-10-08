@@ -1,0 +1,14 @@
+C:\Projects\FoodOptimizer\CSharp\bin\Debug\net8.0\CSharp.exe
+C:\Projects\FoodOptimizer\CSharp\bin\Debug\net8.0\CSharp.deps.json
+C:\Projects\FoodOptimizer\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+C:\Projects\FoodOptimizer\CSharp\bin\Debug\net8.0\CSharp.dll
+C:\Projects\FoodOptimizer\CSharp\bin\Debug\net8.0\CSharp.pdb
+C:\Projects\FoodOptimizer\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FoodOptimizer\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+C:\Projects\FoodOptimizer\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+C:\Projects\FoodOptimizer\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Projects\FoodOptimizer\CSharp\obj\Debug\net8.0\CSharp.dll
+C:\Projects\FoodOptimizer\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+C:\Projects\FoodOptimizer\CSharp\obj\Debug\net8.0\CSharp.pdb
+C:\Projects\FoodOptimizer\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+C:\Projects\FoodOptimizer\CSharp\obj\Debug\net8.0\ref\CSharp.dll
